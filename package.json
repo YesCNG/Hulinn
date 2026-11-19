@@ -1,0 +1,12 @@
+{
+  "name": "hulinn-site",
+  "version": "1.0.0",
+  "description": "Hulinn — The exceptional remains unseen",
+  "type": "module",
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
